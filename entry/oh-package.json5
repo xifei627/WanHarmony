@@ -1,0 +1,19 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    // 三方库地址 https://ohpm.openharmony.cn/
+    // 三方库，使用 `ohpm install xxx` 安装后，在此配置
+    "@ohos/axios": "2.2.4",
+    "@pura/harmony-utils": "1.2.1",
+    "@pura/harmony-dialog": "1.0.3",
+    "@abner/dialog": "1.0.8",
+    "@abner/refresh": "1.3.7",
+    "@tencent/mmkv": "2.2.2",
+    "dayjs": "1.11.13",
+  }
+}
